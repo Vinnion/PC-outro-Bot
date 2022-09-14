@@ -13,4 +13,4 @@ How to Setup and run the Script:
 
 4. Enjoy <3
 
-(If you have any questions or trouble installing the program join the Discord: https://discord.gg/bU7DUfwA5z
+(If you have any questions or trouble installing the program join the Discord: https://discord.gg/bU7DUfwA5z)
